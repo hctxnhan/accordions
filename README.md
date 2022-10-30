@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# ReactJS Accordions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+![screencapture-react-basic-accordions-netlify-app-2022-10-30-12_14_22](https://user-images.githubusercontent.com/95177300/198863702-6d4a3b55-d1ef-4b9b-9a53-9af4b2c39abb.png)
 
 In the project directory, you can run:
 
